@@ -1,0 +1,11 @@
+body{
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    /*background: url('./assets/compilation-jesus-quotes-7o3amo3am7ayhcuv.jpg') no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+}

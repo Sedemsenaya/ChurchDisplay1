@@ -38,7 +38,7 @@ function CarouselBackground() {
                     <div
                         key={index}
                         className={`carousel-item ${index === 0 ? 'active' : ''}`}
-                        data-bs-interval="5000"
+                        data-bs-interval="50000"
                     >
                         <div
                             style={{
